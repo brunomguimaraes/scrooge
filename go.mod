@@ -1,4 +1,4 @@
-module scrooge
+module github.com/brunomguimaraes/scrooge
 
 go 1.19
 
